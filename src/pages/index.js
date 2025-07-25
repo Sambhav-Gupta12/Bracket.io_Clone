@@ -54,7 +54,7 @@ const index = () => {
           <h1>Why Use Brackets?</h1>
           <p>Brackets is a lightweight, yet powerful, modern text editor. We blend visual tools into the editor so you
             get the right amount of help when you want it without getting in the way of your creative process.
-            You'll enjoy writing code in Brackets.</p>
+            You&apos;ll enjoy writing code in Brackets.</p>
         </div>
 
         <div class="made">
@@ -65,7 +65,7 @@ const index = () => {
               fill="#2563eb" stroke="#2563eb" stroke-width="1" stroke-linecap="round"
               stroke-linejoin="round" />
           </svg> and JavaScript</h1>
-          <p>Brackets is an open-source project, supported by an active and passionate community. It's made by other
+          <p>Brackets is an open-source project, supported by an active and passionate community. It&apos;ll made by other
             web developers like you! <a href="https://brackets.io/contribute.html" target="_blank">Learn How to
               Contribute…</a></p>
         </div>
@@ -89,7 +89,7 @@ const index = () => {
           <div class="box">
             <div class="number color">2</div>
             <h2 class="middle">Live Preview</h2>
-            <p>Get a real-time connection to your browser. Make changes to CSS and HTML and you'll instantly see
+            <p>Get a real-time connection to your browser. Make changes to CSS and HTML and you&apos;ll instantly see
               those changes on screen.
             </p>
           </div>
